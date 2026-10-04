@@ -1,0 +1,4 @@
+The `frontend/public/ace/` directory contains the Ace Editor files supplied with the Slash Mark Task 5 resource ZIP.
+They are used by the React frontend as the browser-based code editor.
+
+Code execution in this version is local through the Express backend, so no Judge0 API key is required.
